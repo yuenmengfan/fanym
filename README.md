@@ -1,0 +1,2 @@
+# fanym
+Python expertise
